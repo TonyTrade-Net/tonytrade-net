@@ -17,20 +17,24 @@ TonyTrade 是装在 Mac / Windows 上的 **AI 加密货币交易助手**，支�
 ## 最拿手的三件事
 
 - **AI 对话：** 问一句“BTC 现在什么结构？”，AI 看多个周期的 K 线，用大白话回答你。
-- **AI 点位上图：** AI 回答里的价格和时间一点，就在图上画出标记线；框选一段 K 线，直接问 AI 这一段。另有 37 种画线工具，支撑、压力、趋势线自己画。
+- **AI 画线：** 说一句“帮我画线”，AI 把支撑、压力和趋势线画到你的图上；另有 37 种画线工具自己画。
 - **定策略：** 用平常说话的方式讲你的想法，AI 把它写成计划——进场、止损、有效期，一条条跟你过。
 
 ## 软件截图
 
 *演示画面*
 
-**AI 对话＋点位上图**
+**AI 画线：** 说一句“帮我画线”，支撑、压力、趋势线画到图上。
 
-![TonyTrade AI 对话＋点位上图（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-chat-levels.png)
+![TonyTrade AI 画线（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines.webp)
 
-**框选一段问 AI**
+**AI 点位和交易计划上图**
 
-![TonyTrade 框选一段问 AI（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ask-ai-selection.png)
+![TonyTrade AI 点位和交易计划上图（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-plan-on-chart.webp)
+
+**交易计划上图：** 入场、止损、目标一目了然。
+
+![TonyTrade 交易计划上图（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/trade-plan-on-chart.webp)
 
 ## 其他功能
 
@@ -45,7 +49,7 @@ TonyTrade 是装在 Mac / Windows 上的 **AI 加密货币交易助手**，支�
 
 | | 策略版（现在可下载） | 自动化交易版（即将推出） |
 |---|---|---|
-| AI 对话、画线、定策略 | ✅ | ✅ |
+| AI 对话、AI 画线、定策略 | ✅ | ✅ |
 | 看盘、扫描、回测、模拟盘、提醒 | ✅ | ✅ |
 | 在交易所下单 | – | ✅ 在你设的上限内自动挂单，止损挂在交易所；超出上限的等你确认 |
 | 交易所 API 密钥 | 不需要 | 只要读取和交易权限，绝不要提币权限 |

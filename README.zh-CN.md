@@ -20,6 +20,18 @@ TonyTrade 是装在 Mac / Windows 上的 **AI 加密货币交易助手**，支�
 - **AI 点位上图：** AI 回答里的价格和时间一点，就在图上画出标记线；框选一段 K 线，直接问 AI 这一段。另有 37 种画线工具，支撑、压力、趋势线自己画。
 - **定策略：** 用平常说话的方式讲你的想法，AI 把它写成计划——进场、止损、有效期，一条条跟你过。
 
+## 软件截图
+
+*演示画面*
+
+**AI 对话＋点位上图**
+
+![TonyTrade AI 对话＋点位上图（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-chat-levels.png)
+
+**框选一段问 AI**
+
+![TonyTrade 框选一段问 AI（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ask-ai-selection.png)
+
 ## 其他功能
 
 - **看盘：** 一屏最多 4 张联动图表，K 线回放，叠加别的币对比，大单标在图上。

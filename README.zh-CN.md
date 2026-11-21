@@ -24,9 +24,17 @@ TonyTrade 是装在 Mac / Windows 上的 **AI 加密货币交易助手**，支�
 
 *演示画面*
 
-**AI 画线：** 说一句“帮我画线”，支撑、压力、趋势线画到图上。
+**AI 画线：** AI 画的每条线都标着“AI 画的线”，连了哪几个点写得清清楚楚。
+
+![TonyTrade 日线上的 AI 画线（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines-daily-note.webp)
+
+**说一句“帮我画线”：** 支撑、压力、趋势线画到图上。
 
 ![TonyTrade AI 画线（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines.webp)
+
+**日线 AI 画线：** 支撑、压力、趋势线一次画好。
+
+![TonyTrade 日线 AI 画线（演示画面）](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines-daily.webp)
 
 **AI 点位和交易计划上图**
 

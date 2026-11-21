@@ -20,6 +20,18 @@ TonyTrade is an **AI crypto trading assistant** for Mac and Windows. Spot and US
 - **AI levels on your chart:** click any price or time in the AI's answer and it's marked on the chart; select a stretch of candles and ask the AI about just that part. Plus 37 drawing tools for your own support, resistance and trend lines.
 - **Strategy plans:** say your idea the way you'd say it – the AI turns it into a plan with entry, stop and expiry, and you go through it line by line.
 
+## Screenshots
+
+*Demo*
+
+**AI chat + levels on the chart**
+
+![TonyTrade AI chat and levels on the chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-chat-levels.png)
+
+**Select a stretch, ask the AI**
+
+![TonyTrade select a stretch and ask the AI (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ask-ai-selection.png)
+
 ## Everything else
 
 - **Charts:** up to four linked charts on one screen, candle replay, coin overlays, large trades marked.

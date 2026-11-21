@@ -24,9 +24,17 @@ TonyTrade is an **AI crypto trading assistant** for Mac and Windows. Spot and US
 
 *Demo*
 
-**AI draws the lines:** say "draw the lines for me" and support, resistance and trend lines go on your chart.
+**AI draws the lines:** every line the AI draws is marked "AI-drawn line", with the points it connects.
+
+![TonyTrade – AI-drawn lines on the daily chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines-daily-note.webp)
+
+**Say "draw the lines for me":** support, resistance and trend lines go on your chart.
 
 ![TonyTrade – AI draws support, resistance and trend lines (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines.webp)
+
+**Daily chart, lines drawn by the AI:** support, resistance and trend lines in one go.
+
+![TonyTrade – AI chart drawing on the daily chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines-daily.webp)
 
 **AI levels and trade plan on the chart**
 

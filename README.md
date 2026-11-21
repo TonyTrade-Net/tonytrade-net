@@ -17,20 +17,24 @@ TonyTrade is an **AI crypto trading assistant** for Mac and Windows. Spot and US
 ## The three things it does best
 
 - **AI chat:** ask "What's the structure on BTC right now?" – the AI reads the candles across timeframes and answers in plain words.
-- **AI levels on your chart:** click any price or time in the AI's answer and it's marked on the chart; select a stretch of candles and ask the AI about just that part. Plus 37 drawing tools for your own support, resistance and trend lines.
+- **AI draws the lines:** say "draw the lines for me" and the AI puts support, resistance and trend lines on your chart. Plus 37 drawing tools to draw your own.
 - **Strategy plans:** say your idea the way you'd say it – the AI turns it into a plan with entry, stop and expiry, and you go through it line by line.
 
 ## Screenshots
 
 *Demo*
 
-**AI chat + levels on the chart**
+**AI draws the lines:** say "draw the lines for me" and support, resistance and trend lines go on your chart.
 
-![TonyTrade AI chat and levels on the chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-chat-levels.png)
+![TonyTrade – AI draws support, resistance and trend lines (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-draws-lines.webp)
 
-**Select a stretch, ask the AI**
+**AI levels and trade plan on the chart**
 
-![TonyTrade select a stretch and ask the AI (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ask-ai-selection.png)
+![TonyTrade – AI levels and trade plan on the chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/ai-plan-on-chart.webp)
+
+**Trade plan on the chart:** entry, stop and target at a glance.
+
+![TonyTrade – trade plan on the chart (demo)](https://raw.githubusercontent.com/TonyTrade-Net/tonytrade-net/main/assets/trade-plan-on-chart.webp)
 
 ## Everything else
 
@@ -45,7 +49,7 @@ TonyTrade is an **AI crypto trading assistant** for Mac and Windows. Spot and US
 
 | | Strategy Edition (available now) | Auto-Trading Edition (coming soon) |
 |---|---|---|
-| AI chat, chart drawing, strategy plans | ✅ | ✅ |
+| AI chat, AI chart drawing, strategy plans | ✅ | ✅ |
 | Charts, scanner, backtests, paper trading, alerts | ✅ | ✅ |
 | Places orders on the exchange | – | ✅ Within your limits it places orders automatically, with the stop on the exchange; anything beyond your limits waits for your confirmation |
 | Exchange API key | Not needed | Read + trade only, never withdrawals |
